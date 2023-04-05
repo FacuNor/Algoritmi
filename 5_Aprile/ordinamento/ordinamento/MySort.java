@@ -17,6 +17,7 @@ public class MySort {
         }
     }
 
+    //Questo è il bubble sort
     public static void bubbleSort(String[] array) {
         boolean swapped = true;
         while(swapped){
